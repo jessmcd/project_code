@@ -4,3 +4,8 @@ def wind_speed(u,v,w = 0):
 
 def get_wind_direction(u,v):
     return 90 - atan2(u,v, degrees=True)
+
+
+def CRAZZZYYY(LOL):
+   print('HELL YA DUDE')
+   return LOL * 10
